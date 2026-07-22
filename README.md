@@ -188,15 +188,13 @@ Completed practical tasks in data visualization simulating an analyst role withi
 
 <div align="center">
 
-[![LeetCode](https://img.shields.io/badge/LeetCode-6A0DAD?style=for-the-badge&logo=leetcode&logoColor=white&labelColor=0D0D1A)](https://leetcode.com/vaibhavikahar11)
-[![GeeksforGeeks](https://img.shields.io/badge/GeeksforGeeks-4B0082?style=for-the-badge&logo=geeksforgeeks&logoColor=white&labelColor=0D0D1A)](https://auth.geeksforgeeks.org/user/vaibhavikahar11)
-[![HackerRank](https://img.shields.io/badge/HackerRank-8A2BE2?style=for-the-badge&logo=hackerrank&logoColor=white&labelColor=0D0D1A)](https://hackerrank.com/vaibhavikahar11)
-[![CodeChef](https://img.shields.io/badge/CodeChef-9370DB?style=for-the-badge&logo=codechef&logoColor=white&labelColor=0D0D1A)](https://codechef.com/users/vaibhavikahar11)
+[![LeetCode](https://img.shields.io/badge/LeetCode-6A0DAD?style=for-the-badge&logo=leetcode&logoColor=white&labelColor=0D0D1A)](https://leetcode.com/u/cherryvi11/1)
+[![GeeksforGeeks](https://img.shields.io/badge/GeeksforGeeks-4B0082?style=for-the-badge&logo=geeksforgeeks&logoColor=white&labelColor=0D0D1A)](https://www.geeksforgeeks.org/profile/vaibhavih6yk)
+
 
 </div>
 
-> ⚠️ Update the usernames above in each badge link — these are placeholders based on your GitHub handle.
-
+> 
 ---
 
 ## 📊 GitHub Analytics
@@ -274,7 +272,7 @@ Open To:
 [![Gmail](https://img.shields.io/badge/vaibhavikahar11%40gmail.com-6A0DAD?style=for-the-badge&logo=gmail&logoColor=white&labelColor=0D0D1A)](mailto:vaibhavikahar11@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/vaibhavi--kahar-4B0082?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0D0D1A)](https://linkedin.com/in/vaibhavi-kahar)
 [![GitHub](https://img.shields.io/badge/vaibhavikahar11-8A2BE2?style=for-the-badge&logo=github&logoColor=white&labelColor=0D0D1A)](https://github.com/vaibhavikahar11)
-[![Portfolio](https://img.shields.io/badge/Portfolio-9370DB?style=for-the-badge&logo=vercel&logoColor=white&labelColor=0D0D1A)](https://your-portfolio-link.com)
+[![Portfolio](https://img.shields.io/badge/Portfolio-9370DB?style=for-the-badge&logo=vercel&logoColor=white&labelColor=0D0D1A)](https://vaibhavi-portfolio-umber.vercel.app/)
 
 </div>
 
