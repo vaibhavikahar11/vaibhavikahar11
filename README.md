@@ -12,7 +12,7 @@
 
 <br/>
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-7F00FF?style=for-the-badge&logo=vercel&logoColor=white&labelColor=0D0D1A)](https://your-portfolio-link.com)
+[![Portfolio](https://img.shields.io/badge/Portfolio-7F00FF?style=for-the-badge&logo=vercel&logoColor=white&labelColor=0D0D1A)](https://vaibhavi-portfolio-umber.vercel.app/)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-6A0DAD?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0D0D1A)](https://linkedin.com/in/vaibhavi-kahar)
 [![Email](https://img.shields.io/badge/Email-9370DB?style=for-the-badge&logo=gmail&logoColor=white&labelColor=0D0D1A)](mailto:vaibhavikahar11@gmail.com)
 [![GitHub](https://img.shields.io/badge/GitHub-8A2BE2?style=for-the-badge&logo=github&logoColor=white&labelColor=0D0D1A)](https://github.com/vaibhavikahar11)
@@ -201,24 +201,13 @@ Completed practical tasks in data visualization simulating an analyst role withi
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=vaibhavikahar11&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D0D1A&title_color=B39DFF&icon_color=8A2BE2&text_color=E0D9FF" width="48%"/>
+<!-- <img src="https://github-readme-stats.vercel.app/api?username=vaibhavikahar11&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D0D1A&title_color=B39DFF&icon_color=8A2BE2&text_color=E0D9FF" width="48%"/> -->
 <img src="https://streak-stats.demolab.com/?user=vaibhavikahar11&theme=tokyonight&hide_border=true&background=0D0D1A&ring=8A2BE2&fire=B39DFF&currStreakLabel=B39DFF" width="48%"/>
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vaibhavikahar11&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D0D1A&title_color=B39DFF&text_color=E0D9FF" width="48%"/>
+<!-- <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vaibhavikahar11&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D0D1A&title_color=B39DFF&text_color=E0D9FF" width="48%"/> -->
 
 </div>
 
----
-
-## 🏅 GitHub Trophies
-
-<div align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=vaibhavikahar11&theme=algolia&no-frame=true&column=7&margin-w=8&margin-h=8" />
-
-</div>
-
----
 
 ## 📈 Contribution Activity
 
@@ -228,19 +217,6 @@ Completed practical tasks in data visualization simulating an analyst role withi
 
 </div>
 
----
-
-## 🐍 Contribution Snake
-
-<div align="center">
-
-<img src="https://raw.githubusercontent.com/vaibhavikahar11/vaibhavikahar11/output/github-contribution-grid-snake-dark.svg" width="95%"/>
-
-</div>
-
-> ⚠️ Snake animation requires a GitHub Actions workflow set up in a repo named `vaibhavikahar11/vaibhavikahar11` to generate this SVG on a schedule.
-
----
 
 ## 🎯 Current Focus
 
